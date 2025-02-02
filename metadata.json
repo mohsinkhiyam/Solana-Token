@@ -2,5 +2,16 @@
   "name": "Mohsin Khayam",
   "symbol": "MOK",
   "description": "Mohsin Khayam Khayam Khayam",
-  "image": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/refs/heads/main/tokentransparent.png"
+  "image": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
