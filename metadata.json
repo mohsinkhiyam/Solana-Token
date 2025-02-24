@@ -1,6 +1,28 @@
 {
-  "name": "Mohsin Khayam",
-  "symbol": "MOHS",
-  "description": "Example token from Solana MohsinKhyam.",
-  "image": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png"
+  "name": "Your Token Name",
+  "symbol": "YTN",
+  "description": "A brief description of your token.",
+  "image": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png",
+  "external_url": "https://yourwebsite.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6VdCfCvGoNH4X8uHZTEDzXLUPCPwxvvQpkZspMW9CxjE",
+        "share": 10
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://twitter.com/yourprofile",
+    "discord": "https://discord.gg/yourserver",
+    "telegram": "https://t.me/yourchannel"
+  }
 }
