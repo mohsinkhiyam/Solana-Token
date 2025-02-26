@@ -1,13 +1,13 @@
 {
-  "name": "Muavia",
-  "symbol": "Muavia1",
-  "description": "A brief description of your token.",
-  "image": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png",
-  "external_url": "https://yourwebsite.com",
+  "name": "Mohsin Khayam",
+  "symbol": "MOK",
+  "description": "Flutter Developer Mohsin Khayam.",
+  "image": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/mohsinkhayam.jpg",
+  "external_url": "https://mohsinkhayam.com",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/tokentransparent.png",
+        "uri": "https://raw.githubusercontent.com/mohsinkhiyam/Solana-Token/main/mohsinkhayam.jpg",
         "type": "image/png"
       }
     ],
@@ -20,9 +20,9 @@
     ]
   },
   "extensions": {
-    "website": "https://yourwebsite.com",
-    "twitter": "https://twitter.com/yourprofile",
-    "discord": "https://discord.gg/yourserver",
-    "telegram": "https://t.me/yourchannel"
+    "website": "https://mohsinkhayam.com",
+    "twitter": "https://twitter.com/mohsinkhayam",
+    "discord": "https://discord.gg/mohsinkhayam",
+    "telegram": "https://t.me/mohsinkhayam"
   }
 }
